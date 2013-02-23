@@ -42,7 +42,7 @@ a:hover {
 }
 
 .splash {
-  background: url({{ site.baseurl }}/resources/img/montpellier.jpg) no-repeat center bottom;
+  background: url({{ site.baseurl }}/resources/img/montpellier-color.jpg) no-repeat center bottom;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -52,9 +52,32 @@ a:hover {
 }
 
 .splash-overlay {
-  background: rgba(72, 162, 219, 0.5);
+  /*background: rgba(111, 179, 192, 0.3);*/
   width: 100%;
   height: 100%;
+}
+
+.headline {
+  font-family: 'Actor', sans-serif;
+  font-size: 55px;
+  /*text-transform: uppercase;*/
+  color: #ffffff;
+  font-weight: bold;
+  text-shadow: 0 2px 1px #000;
+}
+
+.beneath-headline {
+/*  font-family: 'Josefin Slab', serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-shadow: 0 2px 1px #000;*/
+  font-weight: normal;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  /*text-shadow: 0 2px 1px #000;*/
+  letter-spacing: .3em;
+  text-transform: uppercase;
 }
 
 .wrapper {
