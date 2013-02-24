@@ -72,7 +72,7 @@ a:hover {
 
 .event-info {
   width: 440px;
-  padding-top: 100px;
+  padding-top: 140px;
 }
 .event-info > .event-name {
   font-family: 'Arvo', serif;
@@ -90,28 +90,41 @@ a:hover {
   text-shadow: 0 2px 1px #000;
   border-bottom: 5px solid #ffffff;
   padding-bottom: 40px;
-  padding-top: 24px;
-  margin-bottom: 22px;
-  /*border-bottom: 1px solid rgba(195, 195, 195, 0.8);*/
+  padding-top: 28px;
+  margin-bottom: 8px;
   -webkit-box-shadow: 2px 1px 0px rgba(0, 0, 0, 1);
   -moz-box-shadow: 2px 1px 0px rgba(0, 0, 0, 1);
   box-shadow: 0px 2px 0px rgba(0, 0, 0, 1);
 }
-}
-.event-info > .event-date {
-  font-weight: normal;
-  color: #BAC172;
-  font-family: 'Lato', sans-serif;
-}
 .event-info > .event-location {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
   font-weight: normal;
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  /*text-shadow: 0 2px 1px #000;*/
+  text-shadow: 0 2px 1px #000;
   letter-spacing: .3em;
   text-transform: uppercase;
+  text-align: center;
 }
-.event-info > .event-colocation {}
+.event-info > .event-date {
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  /*font-style: italic;*/
+  letter-spacing: .1em;
+  color: #BAC172;
+  padding-top: 32px;
+  padding-bottom: 14px;
+  text-align: center;
+  text-shadow: 0 2px 1px #000;
+  /*text-transform: uppercase;*/
+}
+.event-info > .event-colocation {
+  padding-top: 8px;
+  color: #ffffff;
+  text-shadow: 0 1px 1px #000;
+  text-align: center;
+}
 
 
 
