@@ -172,6 +172,8 @@ a:hover {
   margin-top: -46px;
   background-color: #EBEFF0;
   min-height: 250px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .tagline {
@@ -203,6 +205,8 @@ a:hover {
   background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;
   background-color: #363636;
   min-height: 250px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 
@@ -211,6 +215,85 @@ a:hover {
   background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;
   background-color: #7CBAC0;
   min-height: 250px;
+}
+
+.submit-something {
+  margin: 0px auto;
+  width: 760px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.submit-something > p {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 1px #000;
+  text-align: left;
+}
+
+.submit-something > h2 {
+  font-family: 'Open Sans', sans-serif;
+  /*font-size: 42px;*/
+  color: #ffffff;
+  text-transform: uppercase;
+  border-bottom: 4px solid #ffffff;
+  line-height: 1.6em;
+  padding-bottom: 14px;
+}
+
+.submit-something-box-container {
+  position: relative;
+}
+
+.box {
+  width: 280px;
+  min-height:200px;
+  background:#4f4f4f;
+  margin:40px auto;
+}
+
+.submit-something-box {
+    position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.4), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.4), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.4), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.submit-something-box:before, .submit-something-box:after {
+  content:"";
+    position:absolute;
+    z-index:-1;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.9);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.9);
+    box-shadow:0 0 20px rgba(0,0,0,0.9);
+    top:50%;
+    bottom:0;
+    left:10px;
+    right:10px;
+    -moz-border-radius:100px / 10px;
+    border-radius:100px / 10px;
+}
+
+.submit-something-box:after {
+  right:10px;
+    left:auto;
+    -webkit-transform: skew(8deg) rotate(3deg);
+       -moz-transform: skew(8deg) rotate(3deg);
+        -ms-transform: skew(8deg) rotate(3deg);
+         -o-transform: skew(8deg) rotate(3deg);
+            transform: skew(8deg) rotate(3deg);
+}
+
+.left-box {
+  position: absolute;
+  left: 0px;
+  margin-top: 20px;
+}
+
+.right-box {
+  position: absolute;
+  right: 0px;
+  margin-top: 20px;
 }
 
 .navigation {
