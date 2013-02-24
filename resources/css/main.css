@@ -6,8 +6,9 @@
    ========================================================================== */
 
 body {
-  background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;
-  background-color: #efefef;
+/*  background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;
+  background-color: #efefef;*/
+  background-color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1.5em;
@@ -41,29 +42,96 @@ a:hover {
   color: #fff;
 }
 
+.graystripe {
+  width: 100%;
+  background-color: #363636;
+  height: 20px;
+}
+
+.greenstripe {
+  width: 100%;
+  background-color: #BAC172;
+  height: 3px;
+}
+
 .splash {
-  background: url({{ site.baseurl }}/resources/img/montpellier-color.jpg) no-repeat center bottom;
+  background: url({{ site.baseurl }}/resources/img/montpellier-color.jpg) no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   width: 100%;
-  height: 500px;
+  height: 400px;
 }
 
-.splash-overlay {
-  /*background: rgba(111, 179, 192, 0.3);*/
-  width: 100%;
-  height: 100%;
+.logo-bg {
+  background: url({{ site.baseurl }}/resources/img/scala13-logo.png) no-repeat right;
+  height: 330px;
+  margin-top: -260px;
 }
+
+.event-info {
+  width: 440px;
+  padding-top: 100px;
+}
+.event-info > .event-name {
+  font-family: 'Arvo', serif;
+  font-size: 18px;
+  color: #ffffff;
+  /*letter-spacing: .1em;*/
+  /*text-transform: uppercase;*/
+  /*text-shadow: 0 2px 1px #000;*/
+}
+.event-info > .event-abbr {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 88px;
+  font-weight: 800;
+  color: #ffffff;
+  text-shadow: 0 2px 1px #000;
+  border-bottom: 5px solid #ffffff;
+  padding-bottom: 40px;
+  padding-top: 24px;
+  margin-bottom: 22px;
+  /*border-bottom: 1px solid rgba(195, 195, 195, 0.8);*/
+  -webkit-box-shadow: 2px 1px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 2px 1px 0px rgba(0, 0, 0, 1);
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 1);
+}
+}
+.event-info > .event-date {
+  font-weight: normal;
+  color: #BAC172;
+  font-family: 'Lato', sans-serif;
+}
+.event-info > .event-location {
+  font-weight: normal;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  /*text-shadow: 0 2px 1px #000;*/
+  letter-spacing: .3em;
+  text-transform: uppercase;
+}
+.event-info > .event-colocation {}
+
+
 
 .headline {
+/*  display: inline;
   font-family: 'Actor', sans-serif;
-  font-size: 55px;
-  /*text-transform: uppercase;*/
+  line-height: 160px;
+  font-size: 110px;
+  text-transform: uppercase;
   color: #ffffff;
   font-weight: bold;
-  text-shadow: 0 2px 1px #000;
+  text-shadow: 0 2px 1px #000;*/
+  border-bottom: 1px solid rgba(250,250,250,0.3);
+  background: none;
+  font-weight: 700;
+  font-size: 34px;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: .05em;
+  text-transform: uppercase;
 }
 
 .beneath-headline {
@@ -79,6 +147,33 @@ a:hover {
   letter-spacing: .3em;
   text-transform: uppercase;
 }
+
+.date {
+/*  font-family: 'Josefin Slab', serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-shadow: 0 2px 1px #000;*/
+  font-weight: normal;
+  color: #D1E28D;
+  font-family: 'Raleway', sans-serif;
+  /*text-shadow: 0 2px 1px #000;*/
+/*letter-spacing: .3em;*/
+  text-transform: uppercase;
+}
+
+.full-workshop-name {
+  font-weight: normal;
+  color: #ffffff;
+  font-family: 'Bitter', serif;
+  /*text-shadow: 0 2px 1px #000;*/
+  /*letter-spacing: .3em;*/
+  /*text-transform: uppercase;*/
+}
+
+
+
+
 
 .wrapper {
   margin: 0 auto;
