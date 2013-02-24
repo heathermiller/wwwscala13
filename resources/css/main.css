@@ -100,7 +100,7 @@ a:hover {
   font-size: 88px;
   font-weight: 800;
   color: #ffffff;
-  text-shadow: 0 2px 1px #000;
+  text-shadow: 0 3px 2px #000;
   border-bottom: 5px solid #ffffff;
   padding-bottom: 50px;
   padding-top: 28px;
@@ -114,7 +114,7 @@ a:hover {
   font-size: 19px;
   font-weight: 600;
   color: #ffffff;
-  text-shadow: 0 2px 1px #000;
+  text-shadow: 0 3px 2px #000;
   letter-spacing: .3em;
   text-transform: uppercase;
   margin-left: 114px;
@@ -128,7 +128,7 @@ a:hover {
   /*letter-spacing: .1em;*/
   color: #BAC172;
   padding-top: 20px;
-  text-shadow: 0 2px 1px #000;
+  text-shadow: 0 3px 2px #000;
   padding-bottom: 14px;
   margin-left: 116px;
   /*text-transform: uppercase;*/
@@ -141,11 +141,22 @@ a:hover {
 }
 
 .bluegray {
-  margin-top: -46px;
   width: 100%;
-  /*background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;*/
+  margin-top: -46px;
   background-color: #EBEFF0;
   min-height: 250px;
+}
+
+.tagline {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  line-height: 1.3em;
+  color: #74838A;
+  width: 670px;
+}
+
+.tagline > p {
+  margin-left: 86px;
 }
 
 .lightblue {
@@ -161,65 +172,6 @@ a:hover {
   background-color: #BAC172;
   min-height: 250px;
 }
-
-.headline {
-/*  display: inline;
-  font-family: 'Actor', sans-serif;
-  line-height: 160px;
-  font-size: 110px;
-  text-transform: uppercase;
-  color: #ffffff;
-  font-weight: bold;
-  text-shadow: 0 2px 1px #000;*/
-  border-bottom: 1px solid rgba(250,250,250,0.3);
-  background: none;
-  font-weight: 700;
-  font-size: 34px;
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  letter-spacing: .05em;
-  text-transform: uppercase;
-}
-
-.beneath-headline {
-/*  font-family: 'Josefin Slab', serif;
-  font-size: 24px;
-  text-transform: uppercase;
-  color: #ffffff;
-  text-shadow: 0 2px 1px #000;*/
-  font-weight: normal;
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  /*text-shadow: 0 2px 1px #000;*/
-  letter-spacing: .3em;
-  text-transform: uppercase;
-}
-
-.date {
-/*  font-family: 'Josefin Slab', serif;
-  font-size: 24px;
-  text-transform: uppercase;
-  color: #ffffff;
-  text-shadow: 0 2px 1px #000;*/
-  font-weight: normal;
-  color: #D1E28D;
-  font-family: 'Raleway', sans-serif;
-  /*text-shadow: 0 2px 1px #000;*/
-/*letter-spacing: .3em;*/
-  text-transform: uppercase;
-}
-
-.full-workshop-name {
-  font-weight: normal;
-  color: #ffffff;
-  font-family: 'Bitter', serif;
-  /*text-shadow: 0 2px 1px #000;*/
-  /*letter-spacing: .3em;*/
-  /*text-transform: uppercase;*/
-}
-
-
-
 
 
 .wrapper {
@@ -294,9 +246,9 @@ h5 {
 
 p {
   display: block;
-  color: #57676e;
-  /*-webkit-margin-before: 1em;*/
-  -webkit-margin-after: 1.5em;
+  /*color: #57676e;*/
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
 }
