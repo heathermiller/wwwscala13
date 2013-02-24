@@ -179,7 +179,7 @@ a:hover {
   font-size: 22px;
   font-weight: 600;
   line-height: 1.3em;
-  color: #34393A;
+  color: #5a5a5a;
   width: 780px;
   text-shadow: 0 1px 1px #fff;
 }
@@ -212,6 +212,35 @@ a:hover {
   background-color: #7CBAC0;
   min-height: 250px;
 }
+
+.navigation {
+  /*border:1px solid #eeeeee;*/
+  border-width:1px 0;
+  list-style:none;
+  margin-bottom: 28px;
+  padding:0;
+  text-align:center;
+}
+.navigation li{
+  display:inline;
+  text-transform: uppercase;
+}
+
+.navigation > li:first-child {
+  border: 0;
+}
+
+.navigation > li {
+  border: 0px;
+}
+
+.navigation a{
+  display:inline-block;
+  padding:10px;
+  border: 0;
+}
+
+
 
 .wrapper {
   margin: 0 auto;
@@ -483,34 +512,6 @@ li {
   margin-bottom: 2px;
   text-shadow: white 0px 1px 0px;
 }
-
-.navigation {
-  border:1px solid #eeeeee;
-  border-width:1px 0;
-  list-style:none;
-  margin-bottom: 28px;
-  padding:0;
-  text-align:center;
-}
-.navigation li{
-  display:inline;
-  text-transform: uppercase;
-}
-
-.navigation > li:first-child {
-  border: 0;
-}
-
-.navigation > li {
-  border: 0px;
-}
-
-.navigation a{
-  display:inline-block;
-  padding:10px;
-  border: 0;
-}
-
 
 ul {
   margin: 0 0 24px 8px;
