@@ -38,7 +38,7 @@ a:hover {
 }
 
 ::selection {
-  background: #E16147;
+  background: #BAC172;
   color: #fff;
 }
 
@@ -68,7 +68,7 @@ a:hover {
   z-index: 100;
   background: url({{ site.baseurl }}/resources/img/scala13-logo.png) no-repeat right;
   height: 330px;
-  margin-top: -260px;
+  margin-top: -280px;
 }
 
 .france {
@@ -82,10 +82,36 @@ a:hover {
 }
 
 .event-info {
+  z-index: 105;
   position: relative;
   width: 440px;
   padding-top: 140px;
   padding-left: 80px;
+}
+
+.event-colocation > a:link,
+.event-colocation > a:visited {
+  text-decoration: none;
+  /*color: #444;*/
+  color: #ffffff;
+  font-weight: normal;
+  text-shadow: 0 2px 1px #000;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.5);
+  -webkit-transition: color .1s ease-in;
+  -moz-transition: color .1s ease-in;
+  -ms-transition: color .1s ease-in;
+  -o-transition: color .1s ease-in;
+  transition: color .1s ease-in;
+}
+
+.event-colocation > a:hover {
+  text-decoration: none;
+  color: #BB1E5A;
+  -webkit-transition: color .2s ease-in;
+  -moz-transition: color .2s ease-in;
+  -ms-transition: color .2s ease-in;
+  -o-transition: color .2s ease-in;
+  transition: color .2s ease-in;
 }
 .event-info > .event-name {
   font-family: 'Arvo', serif;
@@ -149,14 +175,26 @@ a:hover {
 
 .tagline {
   font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
+  font-size: 22px;
+  font-weight: 600;
   line-height: 1.3em;
-  color: #74838A;
-  width: 670px;
+  color: #34393A;
+  width: 780px;
+  text-shadow: 0 1px 1px #fff;
 }
 
-.tagline > p {
+.tagline > p,
+.sub-tagline > p {
   margin-left: 86px;
+}
+
+.sub-tagline {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.3em;
+  color: #74838A;
+  width: 860px;
+  text-shadow: 0 1px 1px #fff;
 }
 
 .lightblue {
