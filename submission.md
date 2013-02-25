@@ -23,6 +23,18 @@ A week before the paper submission deadline, authors have to submit a
 short plain-text abstract via EasyChair (see below).
 
 
+## Student Talks
+
+In addition to regular papers and tool demos, we also solicit short
+*student talks* by PhD students. A student talk is not accompanied by
+a paper (it is sufficient to submit a short abstract of the talk in
+plain text). Student talks are about 5 minutes long, presenting
+ongoing or completed research related to Scala, or announcing a
+project that would be of interest to the Scala community.  "Student
+Talks" should be marked as such with those words in the title at time
+of submission.
+
+
 ## Important Dates
 
 * Abstract Submission: April 12, 2013
