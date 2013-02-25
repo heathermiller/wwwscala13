@@ -47,7 +47,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5 {
-  -webkit-margin-before: 1em;
+  margin-top: 1em;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -81,8 +81,8 @@ h5 {
 p {
   display: block;
   /*color: #57676e;*/
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
+  margin-before: 1em;
+  margin-after: 1em;
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
 }
@@ -91,7 +91,7 @@ li {
   line-height: 1.5em;
   /*margin-bottom: 6px;*/
   color: #57676e;
-  -webkit-margin-after: 0.5em;
+  margin-bottom: 0.5em;
   -webkit-margin-start: 6px;
   -webkit-margin-end: 0px;
 }
