@@ -48,8 +48,6 @@ there is any place on earth with that date).
 
 ### Electronic Submission
 
-Papers *must* be submitted electronically in PDF format via EasyChair
-at
+Papers *must* be submitted electronically in PDF format via EasyChair, [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
 
-* [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
-
+<p style="text-align: center; margin-bottom: 32px;"><a href="https://www.easychair.org/conferences/?conf=scala2013" class="magenta-button small" style="width: 260px; margin: 0px auto;">Submit a Paper, Talk, or Demo</a></p>
