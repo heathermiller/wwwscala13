@@ -3,7 +3,7 @@
 
 $(window).bind("load", function() {
 
-  $('#navbar').sticky({topSpacing:0});
+  $('.white-fullwidth-bar').sticky({topSpacing:0, className:'unhide'});
 
   // manually size the right column
   $(".rightcolumn").height($(".wrapper").outerHeight(true));

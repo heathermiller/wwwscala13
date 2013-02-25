@@ -407,44 +407,54 @@ a:visited.magenta-button {
   padding-bottom: 14px;
 }
 
-.navbar {
+.white-fullwidth-bar {
   z-index: 200;
   margin: 0;
   width: 100%;
   background-color: #fff;
--webkit-box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
--moz-box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
-box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
+  -webkit-box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
+  -moz-box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
+  box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
 }
 
-.navigation {
-  /*border:1px solid #eeeeee;*/
-  border-width:1px 0;
-  list-style:none;
-/*  margin-top: 8px;
-  margin-bottom: 8px*/;
-  height: 40px;
+.navbar-inner {
+  min-height: 40px;
+}
+
+a.brand {
+  margin-left: -20px;
+  opacity: 0;
+  float: left;
+  /*background: url({{ site.baseurl }}/resources/img/navbar-logo.png) no-repeat;*/
+  /*background-color: #fff;*/
+}
+
+.unhide > .white-fullwidth-bar >  .container > a.brand {
+  opacity: 1;
+  -webkit-transition: opacity .3s ease-in;
+  -moz-transition: opacity .3s ease-in;
+  -ms-transition: opacity .3s ease-in;
+  -o-transition: opacity .3s ease-in;
+  transition: opacity .3s ease-in;
+}
+
+.nav {
+  list-style-type:none;
+  margin:0;
   padding:0;
-  text-align:center;
 }
-.navigation li{
-  display:inline;
+
+.nav > li {
+  float: left;
   text-transform: uppercase;
+  padding-top: 18px;
 }
 
-.navigation > li:first-child {
-  border: 0;
-}
-
-.navigation > li {
-  border: 0px;
-}
-
-.navigation a:link,
-.navigation a:visited {
+.nav > li > a:link,
+.nav > li > a:visited {
   display:inline-block;
   font-family: 'Open Sans', sans-serif;
-  padding:10px;
+  /*padding:10px;*/
   border: 0;
   color: #93969D;
   font-weight: 600;
@@ -456,15 +466,17 @@ box-shadow: 0 5px 5px rgba(60, 60, 64, 0.5);
   text-shadow: none;
 }
 
-.navigation a:hover {
+.nav > li > a:hover {
   text-decoration: none;
   color: #BB1E59;
+  background-color: #fff;
   -webkit-transition: color .2s ease-in;
   -moz-transition: color .2s ease-in;
   -ms-transition: color .2s ease-in;
   -o-transition: color .2s ease-in;
   transition: color .2s ease-in;
 }
+
 
 ul {
   list-style-image: url({{ site.baseurl }}/resources/img/arrow.png);
