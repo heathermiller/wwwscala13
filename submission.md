@@ -43,8 +43,7 @@ of submission.
 * Final Papers Due   : June 1, 2013 (to be confirmed)
 * Early Registration : May 31, 2013
 
-All deadlines are at 23:59 American Samoa time (that is, UTC-11 or
-there is any place on earth with that date).
+All deadlines are at 23:59 American Samoa time (UTC-11).
 
 ## Electronic Submission
 
