@@ -51,7 +51,7 @@ publication policies of the targeted conference, which typically
 equates to significant extension or refinement of the workshop
 publication.
 
-*Keywords:* Library Design and Implementation, Language Design and
+**Keywords:** Library Design and Implementation, Language Design and
 Implementation, Applications, Formal Techniques, Parallelism and
 Concurrency, Distributed Programming, Tools, Experience Reports,
 Empirical Studies
@@ -102,7 +102,7 @@ submission.
 
 Submission is via EasyChair:
 
-* [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
+<p style="text-align: center; margin-bottom: 32px;"><a href="https://www.easychair.org/conferences/?conf=scala2013" class="magenta-button small" style="width: 260px; margin: 0px auto;">Submit a Paper, Talk, or Demo</a></p>
 
 
 ### Program Committee
