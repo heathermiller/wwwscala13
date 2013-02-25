@@ -52,6 +52,16 @@ equates to significant extension or refinement of the workshop
 publication.
 
 
+## Student Talks
+
+In addition to regular papers and tool demos, we also solicit short
+*student talks* by PhD students. A student talk is not accompanied by
+a paper (it is sufficient to submit a short abstract of the talk in
+plain text). Student talks are about 5 minutes long, presenting
+ongoing or completed research related to Scala, or announcing a
+project that would be of interest to the Scala community.
+
+
 ## Proceedings
 
 It is planned to publish accepted papers in the ACM Digital Library,
@@ -80,6 +90,11 @@ and short papers must not exceed 4 pages. "Tool Demos" and "Short
 Papers" should be marked as such with those words in the title at time
 of submission.
 
+*Student talks* are not accompanied by papers. Therefore, it is
+sufficient to only submit a plain-text abstract. "Student Talks"
+should be marked as such with those words in the title at time of
+submission.
+
 Submission is via EasyChair:
 
   https://www.easychair.org/conferences/?conf=scala2013
@@ -97,3 +112,11 @@ Submission is via EasyChair:
 * Aleksandar Prokopec, EPFL
 * David Van Horn, Northeastern University
 * Tobias Wrigstad, Uppsala University
+
+
+## Links
+
+* http://lampwww.epfl.ch/~hmiller/scala2013
+  (the Scala Workshop 2013 web site)
+* http://www.lirmm.fr/ecoop13/
+  (the ECOOP 2013 web site)
