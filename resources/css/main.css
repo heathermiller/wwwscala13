@@ -411,6 +411,33 @@ ul > li {
   padding-top: 20px;
 }
 
+.darkgray-footer a:link,
+.darkgray-footer a:visited {
+  display:inline-block;
+  font-family: 'Open Sans', sans-serif;
+  /*padding:10px;*/
+  border: 0;
+  color: rgba(255, 255, 255, 0.7);
+  border-bottom: 2px solid rgba(150, 150, 150, 0.8);
+  font-weight: 600;
+  -webkit-transition: color .1s ease-in;
+  -moz-transition: color .1s ease-in;
+  -ms-transition: color .1s ease-in;
+  -o-transition: color .1s ease-in;
+  transition: color .1s ease-in;
+  text-shadow: 0 1px 1px #000;
+}
+
+.darkgray-footer a:hover {
+  text-decoration: none;
+  color: #BB1E59;
+  -webkit-transition: color .2s ease-in;
+  -moz-transition: color .2s ease-in;
+  -ms-transition: color .2s ease-in;
+  -o-transition: color .2s ease-in;
+  transition: color .2s ease-in;
+}
+
 .submit-something {
   margin: 0px auto;
   width: 760px;

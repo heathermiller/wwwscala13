@@ -1,0 +1,14 @@
+<div class="darkgray-footer">
+  <div class="container">
+    <p style="float: left; text-align: left; margin-top: -10px;">
+    <b>Contacts</b>
+    </br><a href="mailto:philipp.haller@typesafe.com">Philipp Haller</a>,
+    Typesafe, Inc. (Workshop Chair)
+    </br><a href="mailto:heather.miller@epfl.ch">Heather Miller</a>,
+    EPFL. (Workshop Co-Chair)
+  </p>
+  <p style="float: right; text-align: right;">
+    Copyright © 2013, <a href="http://epfl.ch">EPFL</a>
+  </p>
+  </div>
+</div>
