@@ -69,7 +69,7 @@ project that would be of interest to the Scala community.
 
 ## Proceedings
 
-It is planned to publish accepted papers in the ACM Digital Library,
+It is planned to publish accepted papers in the [ACM Digital Library](http://dl.acm.org/),
 unless the authors choose not to. In case of publication in the ACM
 Digital Library, authors must transfer copyright to ACM upon
 acceptance (for government work, to the extent transferable), but
