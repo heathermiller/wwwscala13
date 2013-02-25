@@ -362,7 +362,7 @@ ul > li {
           box-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
 }
 
-.darkgray-footer, .push {
+.footer-wrap, .push {
     height: 80px;
 }
 
@@ -370,7 +370,7 @@ ul > li {
   width: 100%;
   background: url({{ site.baseurl }}/resources/img/transparent_noise.png) repeat;
   background-color: #363636;
-  height: 80px;
+  height: 76px;
   text-align: center;
   font-size: 14px;
   color: rgba(255, 255, 255, 0.6);
