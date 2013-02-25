@@ -101,3 +101,11 @@ Submission is via EasyChair:
 * Aleksandar Prokopec, EPFL
 * David Van Horn, Northeastern University
 * Tobias Wrigstad, Uppsala University
+
+
+## Links
+
+* http://lampwww.epfl.ch/~hmiller/scala2013
+  (the Scala Workshop 2013 web site)
+* http://www.lirmm.fr/ecoop13/
+  (the ECOOP 2013 web site)
