@@ -76,11 +76,11 @@ code, test data, etc.); they retain copyright of auxiliary material.
 
 ### Submission Details
 
-* Abstract Submission: April 12, 2013
-* Paper Submission   : April 19, 2013
-* Author Notification: May 17, 2013
-* Final Papers Due   : June 1, 2013 (to be confirmed)
-* Early Registration : May 31, 2013
+* **Abstract Submission**: April 12, 2013
+* **Paper Submission**   : April 19, 2013
+* **Author Notification**: May 17, 2013
+* **Final Papers Due**   : June 1, 2013 (to be confirmed)
+* **Early Registration** : May 31, 2013
 
 Submitted papers should be in portable document format (PDF),
 formatted using the standard [ACM SIGPLAN two-column conference
