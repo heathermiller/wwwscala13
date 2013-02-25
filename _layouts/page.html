@@ -4,28 +4,27 @@ layout: default
 
 {% include header.html %}
 
-<div class="bluestripe">&nbsp;</div>
+{% include navbar.html %}
 
-<div class="wrapper">
-  <div class="ribbon"><img src="{{ site.baseurl }}/resources/img/ribbon.png"></div>
+<div class="greenstripe">&nbsp;</div>
+<div class="graystripe">&nbsp;</div>
+
+<div class="page-splash">
   <div class="container">
-    <div class="rightcolumn"> &nbsp;</div>
-    <div class="row">
-      <div class="span8">
-        {{ content }}
-      </div>
-      <div class="span4">
-        <div class="polaroid-wrapper">
-          <div class="polaroid">
-            <!-- <img src="{{ site.baseurl }}/resources/img/profile.png"> -->
-          </div>
-        </div>
-        <div class="rightcolumn-content">
-          right column.
-        </div>
-      </div>
-    </div>
+    <h1>{{ page.title }}</h1>
   </div>
+</div>
+
+<div class="bluegray">
+  <div class="container">
+      {{ content }}
+  </div>
+</div>
+
+<div class="greenstripe" style="height: 6px;">&nbsp;</div>
+
+<div class="darkgray-footer">
+  <p>Copyright 2013, EPFL</p>
 </div>
 
 
