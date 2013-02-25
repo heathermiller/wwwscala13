@@ -268,26 +268,21 @@ ul > li {
 .wrapper > .bluegray > .container > h2,
 .wrapper > .bluegray > .container > h3 {
   color: #6b797f;
-  text-align: center;
 }
 
 .wrapper > .bluegray > .container > h2 {
   border-bottom: 4px solid #6b797f;
   line-height: 1.6em;
-  /*padding-bottom: 8px;*/
 }
 
 .wrapper > .bluegray > .container > h3 {
-  border-bottom: 4px solid #5a5a5a;
+  color: #1E9BAA;
+  border-bottom: 3px solid #6B797F;
   line-height: 1.6em;
-  padding-bottom: 14px;
+  -webkit-box-shadow: 1px 1px 0px rgba(255, 255, 255, 1);
+  -moz-box-shadow: 1px 1px 0px rgba(255, 255, 255, 1);
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
 }
-/*font-family: 'Open Sans', sans-serif;
-color: #ffffff;
-text-transform: uppercase;
-border-bottom: 4px solid #ffffff;
-line-height: 1.6em;
-padding-bottom: 14px;*/
 
 .bluegray {
   width: 100%;

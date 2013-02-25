@@ -37,11 +37,11 @@ of submission.
 
 ### Important Dates
 
-* Abstract Submission: April 12, 2013
-* Paper Submission   : April 19, 2013
-* Author Notification: May 17, 2013
-* Final Papers Due   : June 1, 2013 (to be confirmed)
-* Early Registration : May 31, 2013
+* **Abstract Submission**: April 12, 2013
+* **Paper Submission**   : April 19, 2013
+* **Author Notification**: May 17, 2013
+* **Final Papers Due**   : June 1, 2013 (to be confirmed)
+* **Early Registration**** : May 31, 2013
 
 All deadlines are at 23:59 American Samoa time (that is, UTC-11 or
 there is any place on earth with that date).
