@@ -3,10 +3,6 @@ layout: page
 title: Call for Papers
 ---
 
-# Call for Papers
-
-## Scala Workshop 2013
-
 Scala is a general purpose programming language designed to express common
 programming patterns in a concise, elegant, and type-safe way. It smoothly
 integrates features of object-oriented and functional languages.

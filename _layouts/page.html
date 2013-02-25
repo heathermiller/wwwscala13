@@ -4,24 +4,25 @@ layout: default
 
 {% include header.html %}
 
-{% include navbar.html %}
+<div class="wrapper">
+  {% include navbar.html %}
 
-<div class="greenstripe">&nbsp;</div>
-<div class="graystripe">&nbsp;</div>
+  <div class="greenstripe">&nbsp;</div>
+  <div class="graystripe">&nbsp;</div>
 
-<div class="page-splash">
-  <div class="container">
-    <h1>{{ page.title }}</h1>
+  <div class="page-splash">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+    </div>
   </div>
-</div>
-
-<div class="bluegray">
-  <div class="container">
-      {{ content }}
+  <div class="bluegray" style="height: 100%">
+    <div class="container" style="height: 100%">
+        {{ content }}
+    </div>
   </div>
+  <!-- <div class="greenstripe" style="height: 6px;">&nbsp;</div> -->
+  <div class="push"></div>
 </div>
-
-<div class="greenstripe" style="height: 6px;">&nbsp;</div>
 
 <div class="darkgray-footer">
   <p>Copyright 2013, EPFL</p>
