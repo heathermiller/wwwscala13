@@ -57,21 +57,21 @@ h1 {
   text-shadow: 0px 2px 1px rgba(0,0,0,0.4);
 }
 
-/*h2 {
-  color: #CA432F;
-  text-shadow: 0px 0px 1px rgba(0,0,0,0.4);*/
-  /*border-bottom: 1px solid rgba(0,0,0,.1);*/
-/*  border-bottom: 2px solid #dcdcdc;
-}*/
+h2 {
+  color: #5a5a5a;
+  text-transform: uppercase;
+  text-shadow: 0 1px 1px #fff;
+}
 
 h3 {
-  color: #41B7D8;
+  color: #5A5A5A;
+  text-transform: uppercase;
 }
 
 h4 {
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
-  color: #888888;
+  /*color: #888888;*/
 }
 
 h5 {
@@ -139,6 +139,7 @@ ul > li {
 }
 
 .logo-bg {
+  position: relative;
   z-index: 100;
   background: url({{ site.baseurl }}/resources/img/scala13-logo.png) no-repeat right;
   height: 330px;
@@ -248,7 +249,45 @@ ul > li {
   height: auto !important;
   height: 100%;
   margin: 0 auto -80px;
+  color: #6b797f;
+  text-shadow: 0 1px 1px #fff;
 }
+
+.wrapper > .bluegray > .container > ul,
+.wrapper > .bluegray > .container > ul > li {
+  color: #6b797f;
+  text-shadow: 0 1px 1px #fff;
+}
+
+.wrapper > .bluegray > .container > ul > li > strong,
+.wrapper > .bluegray > .container > ul > li > b {
+  color: #5A5A5A;
+}
+
+.wrapper > .bluegray > .container > h1,
+.wrapper > .bluegray > .container > h2,
+.wrapper > .bluegray > .container > h3 {
+  color: #6b797f;
+  text-align: center;
+}
+
+.wrapper > .bluegray > .container > h2 {
+  border-bottom: 4px solid #6b797f;
+  line-height: 1.6em;
+  /*padding-bottom: 8px;*/
+}
+
+.wrapper > .bluegray > .container > h3 {
+  border-bottom: 4px solid #5a5a5a;
+  line-height: 1.6em;
+  padding-bottom: 14px;
+}
+/*font-family: 'Open Sans', sans-serif;
+color: #ffffff;
+text-transform: uppercase;
+border-bottom: 4px solid #ffffff;
+line-height: 1.6em;
+padding-bottom: 14px;*/
 
 .bluegray {
   width: 100%;
@@ -291,7 +330,6 @@ ul > li {
   padding-top: 40px;
   padding-bottom: 40px;
 }
-
 
 .lightblue {
   width: 100%;
@@ -482,7 +520,7 @@ a:visited.magenta-button {
 
 .committee > h2 {
   font-family: 'Open Sans', sans-serif;
-  /*font-size: 42px;*/
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 1);
   color: #ffffff;
   text-transform: uppercase;
   border-bottom: 4px solid #ffffff;

@@ -52,7 +52,7 @@ equates to significant extension or refinement of the workshop
 publication.
 
 
-## Student Talks
+### Student Talks
 
 In addition to regular papers and tool demos, we also solicit short
 *student talks* by PhD students. A student talk is not accompanied by
@@ -62,7 +62,7 @@ ongoing or completed research related to Scala, or announcing a
 project that would be of interest to the Scala community.
 
 
-## Proceedings
+### Proceedings
 
 It is planned to publish accepted papers in the ACM Digital Library,
 unless the authors choose not to. In case of publication in the ACM
@@ -74,7 +74,7 @@ are encouraged to publish auxiliary material with their paper (source
 code, test data, etc.); they retain copyright of auxiliary material.
 
 
-## Submission Details
+### Submission Details
 
 * Abstract Submission: April 12, 2013
 * Paper Submission   : April 19, 2013
@@ -100,21 +100,12 @@ Submission is via EasyChair:
   https://www.easychair.org/conferences/?conf=scala2013
 
 
-## Programme Committee
+### Program Committee
 
-* Marius Eriksen, Twitter
-* Viktor Kuncak, EPFL
-* Mira Mezini, TU Darmstadt
-* Matt Might, University of Utah
-* Nate Nystrom, University of Lugano
-* Bruno Oliveira, National University of Singapore
-* Kunle Olukotun, Stanford University
-* Aleksandar Prokopec, EPFL
-* David Van Horn, Northeastern University
-* Tobias Wrigstad, Uppsala University
+{% include program-committee.html %}
 
 
-## Links
+### Links
 
 * http://lampwww.epfl.ch/~hmiller/scala2013
   (the Scala Workshop 2013 web site)

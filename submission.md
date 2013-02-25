@@ -23,7 +23,7 @@ A week before the paper submission deadline, authors have to submit a
 short plain-text abstract via EasyChair (see below).
 
 
-## Student Talks
+### Student Talks
 
 In addition to regular papers and tool demos, we also solicit short
 *student talks* by PhD students. A student talk is not accompanied by
@@ -35,7 +35,7 @@ Talks" should be marked as such with those words in the title at time
 of submission.
 
 
-## Important Dates
+### Important Dates
 
 * Abstract Submission: April 12, 2013
 * Paper Submission   : April 19, 2013
@@ -46,7 +46,7 @@ of submission.
 All deadlines are at 23:59 American Samoa time (that is, UTC-11 or
 there is any place on earth with that date).
 
-## Electronic Submission
+### Electronic Submission
 
 Papers *must* be submitted electronically in PDF format via EasyChair
 at
