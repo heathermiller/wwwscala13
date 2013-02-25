@@ -51,6 +51,11 @@ publication policies of the targeted conference, which typically
 equates to significant extension or refinement of the workshop
 publication.
 
+*Keywords:* Library Design and Implementation, Language Design and
+Implementation, Applications, Formal Techniques, Parallelism and
+Concurrency, Distributed Programming, Tools, Experience Reports,
+Empirical Studies
+
 
 ### Student Talks
 
@@ -64,12 +69,12 @@ project that would be of interest to the Scala community.
 
 ### Proceedings
 
-It is planned to publish accepted papers in the ACM Digital Library,
+It is planned to publish accepted papers in the [ACM Digital Library](http://dl.acm.org/),
 unless the authors choose not to. In case of publication in the ACM
 Digital Library, authors must transfer copyright to ACM upon
 acceptance (for government work, to the extent transferable), but
-retain various rights
-(http://www.acm.org/publications/policies/copyright_policy). Authors
+retain various rights (see [ACM Copyright
+Policy](http://www.acm.org/publications/policies/copyright_policy)). Authors
 are encouraged to publish auxiliary material with their paper (source
 code, test data, etc.); they retain copyright of auxiliary material.
 
@@ -97,7 +102,7 @@ submission.
 
 Submission is via EasyChair:
 
-  https://www.easychair.org/conferences/?conf=scala2013
+* [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
 
 
 ### Program Committee
@@ -107,7 +112,5 @@ Submission is via EasyChair:
 
 ### Links
 
-* http://lampwww.epfl.ch/~hmiller/scala2013
-  (the Scala Workshop 2013 web site)
-* http://www.lirmm.fr/ecoop13/
-  (the ECOOP 2013 web site)
+* [The Scala Workshop 2013 web site](http://lampwww.epfl.ch/~hmiller/scala2013)
+* [The ECOOP/ECSA/ECMFA 2013 web site](http://www.lirmm.fr/ec-montpellier-2013/)
