@@ -51,6 +51,11 @@ publication policies of the targeted conference, which typically
 equates to significant extension or refinement of the workshop
 publication.
 
+*Keywords:* Library Design and Implementation, Language Design and
+Implementation, Applications, Formal Techniques, Parallelism and
+Concurrency, Distributed Programming, Tools, Experience Reports,
+Empirical Studies
+
 
 ## Student Talks
 
@@ -116,7 +121,5 @@ Submission is via EasyChair:
 
 ## Links
 
-* http://lampwww.epfl.ch/~hmiller/scala2013
-  (the Scala Workshop 2013 web site)
-* http://www.lirmm.fr/ecoop13/
-  (the ECOOP 2013 web site)
+* [The Scala Workshop 2013 web site](http://lampwww.epfl.ch/~hmiller/scala2013)
+* [The ECOOP/ECSA/ECMFA 2013 web site](http://www.lirmm.fr/ec-montpellier-2013/)
