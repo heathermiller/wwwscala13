@@ -73,8 +73,8 @@ It is planned to publish accepted papers in the ACM Digital Library,
 unless the authors choose not to. In case of publication in the ACM
 Digital Library, authors must transfer copyright to ACM upon
 acceptance (for government work, to the extent transferable), but
-retain various rights
-(http://www.acm.org/publications/policies/copyright_policy). Authors
+retain various rights (see [ACM Copyright
+Policy](http://www.acm.org/publications/policies/copyright_policy)). Authors
 are encouraged to publish auxiliary material with their paper (source
 code, test data, etc.); they retain copyright of auxiliary material.
 
@@ -102,7 +102,7 @@ submission.
 
 Submission is via EasyChair:
 
-  https://www.easychair.org/conferences/?conf=scala2013
+* [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
 
 
 ## Programme Committee
