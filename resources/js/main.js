@@ -2,6 +2,9 @@
 ---
 
 $(window).bind("load", function() {
+
+  $('#navbar').sticky({topSpacing:0});
+
   // manually size the right column
   $(".rightcolumn").height($(".wrapper").outerHeight(true));
 
