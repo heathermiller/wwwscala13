@@ -1,0 +1,8 @@
+<h2>Organization Committee</h2>
+<ul>
+  <li>Philipp Haller, chair, Typesafe</li>
+  <li>Martin Odersky, EPFL</li>
+  <li>Doug Lea, SUNY Oswego</li>
+  <li>Heather Miller, co-chair, EPFL</li>
+  <li>Vojin Jovanovic, EPFL</li>
+</ul>
