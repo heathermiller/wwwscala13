@@ -112,16 +112,16 @@ Submission is via EasyChair: https://www.easychair.org/conferences/?conf=scala20
 Program Committee
 =================
 
-* Viktor Kuncak, EPFL
-* Tobias Wrigstad, Uppsala University
-* Nate Nystrom, University of Lugano
-* Mira Mezini, TU Darmstadt
-* Aleksandar Prokopec, EPFL
-* Bruno Oliveira, National University of Singapore
-* Matt Might, University of Utah
-* Kunle Olukotun, Stanford University
-* David Van Horn, Northeastern University
 * Marius Eriksen, Twitter
+* Viktor Kuncak, EPFL
+* Mira Mezini, TU Darmstadt
+* Matt Might, University of Utah
+* Nate Nystrom, University of Lugano
+* Bruno Oliveira, National University of Singapore
+* Kunle Olukotun, Stanford University
+* Aleksandar Prokopec, EPFL
+* David Van Horn, Northeastern University
+* Tobias Wrigstad, Uppsala University
 
 
 Links
