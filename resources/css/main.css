@@ -112,6 +112,20 @@ ul > li {
   height: 24px;
 }
 
+.redstripe {
+  width: 100%;
+  background-color: #CA356C;
+  height: 60px;
+}
+
+.redstripe .container p {
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 16px;
+}
+
 .greenstripe {
   width: 100%;
   background-color: #BAC172;
@@ -320,7 +334,7 @@ ul > li {
   width: 100%;
   margin-top: -46px;
   background-color: #EBEFF0;
-  min-height: 250px;
+  min-height: 200px;
   padding-top: 40px;
   padding-bottom: 40px;
 }
