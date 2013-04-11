@@ -339,6 +339,15 @@ ul > li {
   padding-bottom: 40px;
 }
 
+.sigplan-sigsoft {
+  text-align: center;
+  font-family: 'Arvo', serif;
+  /*width: 400px;*/
+  margin-top: -40px;
+  /*margin-left: 110px;*/
+  margin-bottom: 20px;
+}
+
 .tagline {
   font-family: 'Open Sans', sans-serif;
   font-size: 22px;
