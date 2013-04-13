@@ -24,7 +24,7 @@ approached as short research papers. "Short Papers" are expected to carry some
 new insights or contribution, and to compare with related work, as with any
 normal research paper. They're simply shorter versions of full research
 papers. "Tool Demos" on the other hand are about showcasing a well-developed,
-well-documented tool, live, before the workshop. A "Tool Demo"s' corresponding
+well-documented tool, live, before the workshop. "Tool Demo"s' corresponding
 papers are meant to contain an overview of the tool and methodology for the
 tool's use. Tool demo papers are less concerned about proving new research
 insights, or thoroughly comparing with related work. The Scala Workshop PC
