@@ -95,6 +95,18 @@ and short papers must not exceed 4 pages. "Tool Demos" and "Short
 Papers" should be marked as such with those words in the title at time
 of submission.
 
+_Note:_ "Short Papers" differ from "Tool Demos" in that "Short Papers" are
+approached as short research papers. "Short Papers" are expected to carry some
+new insights or contribution, and to compare with related work, as with any
+normal research paper. They're simply shorter versions of full research
+papers. "Tool Demos" on the other hand are about showcasing a well-developed,
+well-documented tool, live, before the workshop. A "Tool Demo"s' corresponding
+papers are meant to contain an overview of the tool and methodology for the
+tool's use. Tool demo papers are less concerned about proving new research
+insights, or thoroughly comparing with related work. The Scala Workshop PC
+will approach Tool Demos in the same way as the PEPM Workshop PC, detailed in
+[PEPM's Tool Paper Evaluation Criteria](www.program-transformation.org/PEPM13/ToolPaperAdvice)
+
 *Student talks* are not accompanied by papers. Therefore, it is
 sufficient to only submit a plain-text abstract. "Student Talks"
 should be marked as such with those words in the title at time of

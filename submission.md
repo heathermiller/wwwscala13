@@ -19,6 +19,18 @@ authoring research papers](http://www.sigplan.org/Resources/Author)
 before submitting. The workshop chairs welcome any inquiries about the
 authoring advice.
 
+_Note:_ "Short Papers" differ from "Tool Demos" in that "Short Papers" are
+approached as short research papers. "Short Papers" are expected to carry some
+new insights or contribution, and to compare with related work, as with any
+normal research paper. They're simply shorter versions of full research
+papers. "Tool Demos" on the other hand are about showcasing a well-developed,
+well-documented tool, live, before the workshop. A "Tool Demo"s' corresponding
+papers are meant to contain an overview of the tool and methodology for the
+tool's use. Tool demo papers are less concerned about proving new research
+insights, or thoroughly comparing with related work. The Scala Workshop PC
+will approach Tool Demos in the same way as the PEPM Workshop PC, detailed in
+[PEPM's Tool Paper Evaluation Criteria](www.program-transformation.org/PEPM13/ToolPaperAdvice)
+
 A week before the paper submission deadline, authors have to submit a
 short plain-text abstract via EasyChair (see below).
 
@@ -26,9 +38,9 @@ short plain-text abstract via EasyChair (see below).
 ### Student Talks
 
 In addition to regular papers and tool demos, we also solicit short
-*student talks* by PhD students. A student talk is not accompanied by
+*student talks* by bachelor/master/PhD students. A student talk is not accompanied by
 a paper (it is sufficient to submit a short abstract of the talk in
-plain text). Student talks are about 5 minutes long, presenting
+plain text). Student talks are 5-10 minutes long, presenting
 ongoing or completed research related to Scala, or announcing a
 project that would be of interest to the Scala community.  "Student
 Talks" should be marked as such with those words in the title at time
