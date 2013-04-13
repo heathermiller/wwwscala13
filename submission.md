@@ -49,7 +49,7 @@ of submission.
 
 ### Important Dates
 
-* **Abstract Submission**: April 12, 2013
+* **Abstract Submission**: April 12, 2013 <span style="color: #CB366D;"><b>(Still Open!)</b></span>
 * **Paper Submission**   : April 19, 2013
 * **Author Notification**: May 17, 2013
 * **Final Papers Due**   : June 1, 2013 (to be confirmed)
