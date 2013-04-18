@@ -90,7 +90,7 @@ code, test data, etc.); they retain copyright of auxiliary material.
 All deadlines are at 23:59 American Samoa time (UTC-11).
 
 <center>
-<span style="color: #CB366D;"><b>Countdown to Deadline:</b></span></br>
+<span style="color: #CB366D;"><b>Countdown to Paper Submission Deadline:</b></span></br>
 <iframe src="http://free.timeanddate.com/countdown/i3ldmodd/n1033/cf11/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac6b797f/cpccb366d/pcebeff0/tcfff/fs100/szw448/szh189/iso2013-04-19T23:59:59" frameborder="0" width="357" height="27"></iframe>
 </center>
 
