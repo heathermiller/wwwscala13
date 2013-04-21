@@ -57,8 +57,6 @@ of submission.
 
 All deadlines are at 23:59 American Samoa time (UTC-11).
 
-{% include countdown.html %}
-
 ### Electronic Submission
 
 Papers *must* be submitted electronically in PDF format via EasyChair, [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)

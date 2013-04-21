@@ -89,8 +89,6 @@ code, test data, etc.); they retain copyright of auxiliary material.
 
 All deadlines are at 23:59 American Samoa time (UTC-11).
 
-{% include countdown.html %}
-
 Submitted papers should be in portable document format (PDF),
 formatted using the standard [ACM SIGPLAN two-column conference
 style](http://www.sigplan.org/Resources/Author) (10pt format). Regular
