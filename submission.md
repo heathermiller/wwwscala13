@@ -49,16 +49,18 @@ of submission.
 
 ### Important Dates
 
-* **Abstract Submission**: April 12, 2013
-* **Paper Submission**   : April 19, 2013
-* **Author Notification**: May 17, 2013
-* **Final Papers Due**   : June 1, 2013 (to be confirmed)
-* **Early Registration** : May 31, 2013
+<ul>
+  <li><strike><b>Abstract Submission</b>: April 12, 2013</strike></li>
+  <li><strike> <b>Paper Submission</b> : April 19, 2013</strike></li>
+  <li><b>Author Notification</b>: May 17, 2013</li>
+  <li><b>Final Papers Due</b>   : June 1, 2013 (to be confirmed)</li>
+  <li><b>Early Registration</b> : May 31, 2013</li>
+</ul>
 
 All deadlines are at 23:59 American Samoa time (UTC-11).
 
 ### Electronic Submission
 
-Papers *must* be submitted electronically in PDF format via EasyChair, [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
+The submission site is now closed to new submissions. Authors who have submitted papers may view or download their submission via EasyChair [https://www.easychair.org/conferences/?conf=scala2013](https://www.easychair.org/conferences/?conf=scala2013)
 
-<p style="text-align: center; margin-bottom: 32px;"><a href="https://www.easychair.org/conferences/?conf=scala2013" class="magenta-button small" style="width: 260px; margin: 0px auto;">Submit a Paper, Talk, or Demo</a></p>
+<!-- <p style="text-align: center; margin-bottom: 32px;"><a href="https://www.easychair.org/conferences/?conf=scala2013" class="magenta-button small" style="width: 260px; margin: 0px auto;">Submit a Paper, Talk, or Demo</a></p> -->
