@@ -680,6 +680,7 @@ a.brand {
 }
 
 .nav > li {
+  font-size: 16px;
   float: left;
   text-transform: uppercase;
   padding-top: 18px;
