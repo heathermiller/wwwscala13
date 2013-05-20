@@ -14,7 +14,10 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
       <td id="time">Time TBD</td>
       <td>
         <span class="dark"><strong>A New Concurrency Model for Scala Based on a Declarative Dataflow Core</strong></span><br>
-        Sébastien Doeraene (EPFL) and Peter Van Roy (Université catholique de Louvain).
+        Sébastien Doeraene (EPFL)
+<a href="https://twitter.com/sjrdoeraene" class="twitter-follow-button" data-show-count="false">Follow @sjrdoeraene</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        and Peter Van Roy (Université catholique de Louvain).
       </td>
     </tr>
     <tr>
