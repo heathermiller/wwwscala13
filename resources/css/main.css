@@ -712,3 +712,22 @@ a.brand {
   -o-transition: color .2s ease-in;
   transition: color .2s ease-in;
 }
+
+.label-tool {
+  background-color: #CB366D;
+  vertical-align: middle;
+}
+
+.label-short {
+  background-color: #BAC172;
+  vertical-align: middle;
+}
+
+.label-full{
+  background-color: #7CBAC0;
+  vertical-align: middle;
+}
+
+.dark {
+  color: #363636;
+}
