@@ -731,3 +731,83 @@ a.brand {
 .dark {
   color: #363636;
 }
+
+.program-date {
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #BAC172;
+  padding-top: 20px;
+  text-shadow: 0 2px 1px #000;
+  text-transform: none;
+}
+
+.program-date:first-child {
+  margin-top: 0em;
+}
+
+.workshop-block-title {
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  line-height: 1.3em;
+  font-weight: bold;
+  padding-top: 20px;
+  /*text-shadow: 0 1px 1px #000;*/
+  text-transform: none;
+  color: #CB366D;
+  /*text-transform: uppercase;*/
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.big-magenta {
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  line-height: 1.3em;
+  font-weight: bold;
+  text-transform: none;
+  color: #CB366D;
+}
+
+.big-blue {
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  line-height: 1.3em;
+  font-weight: bold;
+  text-transform: none;
+  color: #1E9BAA;
+  margin-top: 8px;
+}
+
+#time {
+  font-weight: bold;
+  vertical-align: middle;
+  text-align: center;
+  width: 85px;
+}
+
+.no-border,
+.no-border > tbody,
+.no-border > tbody > tr,
+.no-border > tbody > tr > td {
+  border: 0px;
+  vertical-align: middle;
+}
+
+.no-border {
+  margin-bottom: 0px;
+}
+
+#profile-pic > img {
+  -webkit-border-radius: 45px;
+  -moz-border-radius: 45px;
+  border-radius: 45px;
+}
+
+#profile-pic {
+  width: 100px;
+}
+
+iframe.twitter-follow-btn {
+  padding-top: 2px;
+}
