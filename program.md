@@ -86,7 +86,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
       <td id="time">10:30am-11am</td>
       <td>
         <span class="dark"><strong>Scala Macros: Let Our Powers Combine!</strong></span><br>
-        Eugene Burmako (EPFL)&nbsp;
+        Eugene Burmako (EPFL)
 <a href="https://twitter.com/xeno_by" class="twitter-follow-button" data-show-count="false">Follow @xeno_by</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       </td>
