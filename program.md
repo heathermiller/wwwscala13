@@ -39,7 +39,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
 
 <h1 class="program-date" style="color: #BAC172;">July 2nd</h1>
 
-<br>
+&nbsp;<br>
 <table class="table no-border">
   <tbody>
     <tr>
@@ -80,7 +80,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
 
 <div class="workshop-block-title"><strong>Session 1: Compilation and Debugging</strong></div>
 
-<table class="table table-bordered">
+&nbsp;<table class="table table-bordered">
   <tbody>
     <tr>
       <td id="time">10:30am-11am</td>
