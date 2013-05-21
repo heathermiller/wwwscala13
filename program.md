@@ -59,7 +59,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
       <td>
         <div class="big-magenta"><strong>Keynote</strong></div>
         <span class="dark"><strong>The Essence of Language-Integrated Query</strong></span><br>
-        <a href="http://homepages.inf.ed.ac.uk/wadler/">Prof. Philip Wadler</a>, University of Edinburgh&nbsp;
+        <a href="http://homepages.inf.ed.ac.uk/wadler/">Prof. Philip Wadler</a>, University of Edinburgh
 <a href="https://twitter.com/PhilipWadler" class="twitter-follow-button" data-show-count="false">Follow @PhilipWadler</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       </td>
