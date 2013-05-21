@@ -51,7 +51,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
-<table class="table no-border">
+&nbsp;<table class="table no-border">
   <tbody>
     <tr>
       <td id="time">9am-10am</td>
