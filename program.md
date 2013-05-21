@@ -55,7 +55,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   <tbody>
     <tr>
       <td id="time">9am-10am</td>
-      <td id="profile-pic"><img src="{{ site.baseurl }}/resources/img/phil.png"></td>
+      <td id="profile-pic"><img src="{{ site.baseurl }}/resources/img/phil.png"/></td>
       <td>
         <div class="big-magenta"><strong>Keynote</strong></div>
         <span class="dark"><strong>The Essence of Language-Integrated Query</strong></span><br>
