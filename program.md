@@ -11,7 +11,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
 <table class="table table-bordered">
   <tbody>
     <tr>
-      <td id="time">Time TBD</td>
+      <td id="time">2:00pm-2:30pm</td>
       <td>
         <span class="dark"><strong>A New Concurrency Model for Scala Based on a Declarative Dataflow Core</strong></span><br>
         Sébastien Doeraene (EPFL)
@@ -21,14 +21,14 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
       </td>
     </tr>
     <tr>
-      <td id="time">Time TBD</td>
+      <td id="time">2:30pm-3:00pm</td>
       <td>
         <span class="dark"><strong>Implicit Parallelism in a Functional Subset of Scala</strong></span><br>
         Shams Imam (Rice University), Robert Cartwright (Rice University) and Vivek Sarkar (Rice University).
       </td>
     </tr>
     <tr>
-      <td id="time">Time TBD</td>
+      <td id="time">3:00pm-3:30pm</td>
       <td>
         <span class="dark"><strong>Dataflow Constructs for a Language Extension Based on the Algebra of Communicating Processes</strong></span><br>
         André Van Delft.
