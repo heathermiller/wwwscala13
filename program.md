@@ -50,8 +50,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
     </tr>
   </tbody>
 </table>
-
-&nbsp;<table class="table no-border">
+<table class="table no-border">
   <tbody>
     <tr>
       <td id="time">9am-10am</td>
@@ -67,6 +66,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <table class="table no-border">
   <tbody>
     <tr>
@@ -78,9 +78,9 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <div class="workshop-block-title"><strong>Session 1: Compilation and Debugging</strong></div>
-
-&nbsp;<table class="table table-bordered">
+<table class="table table-bordered">
   <tbody>
     <tr>
       <td id="time">10:30am-11am</td>
@@ -124,8 +124,8 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <div class="big-magenta"><strong>Student Talks, Session 1: 12:30pm-12:45pm</strong></div>
-
 <table class="table no-border">
   <tbody>
     <tr>
@@ -150,6 +150,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <table class="table no-border">
   <tbody>
     <tr>
@@ -161,8 +162,8 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <div class="workshop-block-title"><strong>Session 2: Libraries and Frameworks</strong></div>
-
 <table class="table table-bordered">
   <tbody>
     <tr>
@@ -196,8 +197,8 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <div class="big-magenta"><strong>Student Talks, Session 2: 3:45pm-4:00pm</strong></div>
-
 <table class="table no-border">
   <tbody>
     <tr>
@@ -224,6 +225,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <table class="table no-border">
   <tbody>
     <tr>
@@ -235,8 +237,8 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
   </tbody>
 </table>
 
+<br>
 <div class="workshop-block-title"><strong>Session 3: Types and Verification</strong></div>
-
 <table class="table table-bordered">
   <tbody>
     <tr>
