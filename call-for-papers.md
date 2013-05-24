@@ -83,8 +83,8 @@ code, test data, etc.); they retain copyright of auxiliary material.
 
 <ul>
   <li><strike><b>Abstract Submission</b>: April 12, 2013</strike></li>
-  <li><strike> <b>Paper Submission</b> : April 19, 2013</strike></li>
-  <li><b>Author Notification : May 19, 2013</b></li>
+  <li><strike><b>Paper Submission</b> : April 19, 2013</strike></li>
+  <li><strike><b>Author Notification</b> : May 19, 2013</strike></li>
   <li><b>Final Papers Due</b>   : June 10, 2013</li>
   <li><b>Early Registration</b> : May 31, 2013</li>
 </ul>
