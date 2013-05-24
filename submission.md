@@ -53,7 +53,7 @@ of submission.
   <li><strike><b>Abstract Submission</b>: April 12, 2013</strike></li>
   <li><strike> <b>Paper Submission</b> : April 19, 2013</strike></li>
   <li><b>Author Notification : May 19, 2013</b></li>
-  <li><b>Final Papers Due</b>   : June 1, 2013 (to be confirmed)</li>
+  <li><b>Final Papers Due</b>   : June 10, 2013</li>
   <li><b>Early Registration</b> : May 31, 2013</li>
 </ul>
 
