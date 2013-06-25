@@ -828,7 +828,7 @@ iframe.twitter-follow-btn {
   border-bottom: 0px;
 }
 
-.icon-wrap > a:link > strong {
+.paper > a:link {
   border-bottom: 3px solid rgba(150, 150, 150, 0.8);
 }
 
