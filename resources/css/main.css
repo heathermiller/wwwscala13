@@ -811,3 +811,23 @@ a.brand {
 iframe.twitter-follow-btn {
   padding-top: 2px;
 }
+
+.icon-wrap {
+  float: left;
+  height: 60px;
+  width: 42px;
+  margin-right: 10px;
+}
+
+.pdf-icon {
+  height: 42px;
+  width: 40px;
+}
+
+.icon-wrap > a:link {
+  border-bottom: 0px;
+}
+
+.paper {
+  margin-bottom: 24px;
+}
