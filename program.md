@@ -260,7 +260,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
     <tr>
       <td id="time">5:20pm-5:40pm</td>
       <td>
-        <span class="dark"><strong>GADTs and Declaration-site Variance: A Problem Statement</strong></span><br>
+        <span class="dark"><strong>Open GADTs and Declaration-site Variance: A Problem Statement</strong></span><br>
         Paolo G. Giarrusso (University of Marburg)
 <a href="https://twitter.com/Blaisorblade" class="twitter-follow-button" data-show-count="false">Follow @Blaisorblade</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
