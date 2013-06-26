@@ -53,8 +53,8 @@ of submission.
   <li><strike><b>Abstract Submission</b>: April 12, 2013</strike></li>
   <li><strike> <b>Paper Submission</b> : April 19, 2013</strike></li>
   <li><strike><b>Author Notification</b> : May 19, 2013</strike></li>
-  <li><b>Final Papers Due</b>   : June 10, 2013</li>
-  <li><b>Early Registration</b> : May 31, 2013</li>
+  <li><strike><b>Final Papers Due</b>   : June 10, 2013</strike></li>
+  <li><strike><b>Early Registration</b> : May 31, 2013</strike></li>
 </ul>
 
 All deadlines are at 23:59 American Samoa time (UTC-11).
