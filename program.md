@@ -108,7 +108,7 @@ Scala2013's parallelism/concurrency session will be co-sponsored by [LaME'13](ht
     <tr>
       <td id="time">11:50am-12:10pm</td>
       <td>
-        <span class="dark"><strong>Stack Retention in Debuggers For Concurrent Programs</strong> <span class="label label-tool">Tool Demo</span></span><br>
+        <span class="dark"><strong>Stack Retention in Debuggers For Concurrent Programs</strong></span><br>
         Iulian Dragos (Typesafe)
 <a href="https://twitter.com/jaguarul" class="twitter-follow-button" data-show-count="false">Follow @jaguarul</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
